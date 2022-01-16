@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+}
+.cosmetics-form-container{
+    font-size: 20px;
+}
+.cosmetics-checkboxes > div{
+     display: inline-block
+ }
+
+ .table > div{
+ height: 20px;
+padding: 10px;
+border: pink solid 1px;
+}
+
+.color of lipstick > div{
+height: 20px;
+width: 1px;
+padding: 20px;
+}
+.image > div{
+height: 20px;
+padding: 20px;
+}
+
+
+
