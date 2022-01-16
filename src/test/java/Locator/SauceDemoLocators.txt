@@ -1,0 +1,5 @@
+
+by.className ("error-message-container")
+by.name ("user-name") //логин
+by.id ("login-button") //пароль
+by.className ("svg-inline -- fa fa-times fa-w-11") //крестик, если неправильно ввёл пароль
